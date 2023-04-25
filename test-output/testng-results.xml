@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T13:36:21Z" name="Default suite" finished-at="2023-04-25T13:37:46Z" duration-ms="85562">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T13:36:21Z" name="Default test" finished-at="2023-04-25T13:37:46Z" duration-ms="85562">
+      <class name="tests.TestClass">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:36:04Z" name="Setup" finished-at="2023-04-25T13:36:21Z" duration-ms="16352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="SetupExtent()[pri:0, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:36:21Z" name="SetupExtent" finished-at="2023-04-25T13:36:21Z" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupExtent -->
+        <test-method signature="test()[pri:0, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:36:21Z" name="test" finished-at="2023-04-25T13:36:21Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="searchAutomation()[pri:1, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:36:21Z" name="searchAutomation" finished-at="2023-04-25T13:36:39Z" duration-ms="17615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAutomation -->
+        <test-method signature="searchName()[pri:2, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:36:39Z" name="searchName" finished-at="2023-04-25T13:36:55Z" duration-ms="16111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchName -->
+        <test-method signature="loginTestCase()[pri:3, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:36:55Z" name="loginTestCase" finished-at="2023-04-25T13:37:46Z" duration-ms="50582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method is-config="true" signature="TearDownExtent()[pri:0, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:37:46Z" name="TearDownExtent" finished-at="2023-04-25T13:37:46Z" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownExtent -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.TestClass@18df8434]" started-at="2023-04-25T13:37:46Z" name="TearDown" finished-at="2023-04-25T13:37:49Z" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
