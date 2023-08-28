@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9d48ba2-19b7-4fc1-9934-8eee6dba0db3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architechture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STMExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/STMExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682083955780.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682084081953.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682084756301.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682087210738.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682087211259.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682087795004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682087795473.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682087800841.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682087825624.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/1682087831819.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Entered details successfully.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Login successfully.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Logout successfully.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Searched results are displayed succesfully.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Searched results are displayed succesfully.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Searched results are displayed.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Searched results are displayed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Test level Screenshot captured.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Test level Screenshot captured.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Entered details successfully.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Entered details successfully.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Login successfully.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Login successfully.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Searched results are displayed succesfully.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Searched results are displayed succesfully.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Searched results are displayed.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Searched results are displayed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ExtentReportsHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ExtentReportsHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-tests.BaseClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-tests.TestClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/Default test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/STMExtentReport.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/feature/searchunibet.feature" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/BaseClass.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test-output/Default suite/Default test.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test-output/Default suite/Default test.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spark.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2UW5PKq47vnyvOtcZXX2PDjNSSL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../appium-cucumberbdd" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\testCode\appium-java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="appiumAutomation [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d48ba2-19b7-4fc1-9934-8eee6dba0db3" name="Changes" comment="" />
+      <created>1693042473870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693042473870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -101,7 +101,7 @@ public class BaseClass extends ExtentReportsHolder{
 	@Test
 	public void test()
 	{
-		ExtentTest test2 = extent.createTest("Launch chrome Test", "Search a string in google.com");
+		ExtentTest test2 = extent.createTest("Launch chrome Test", "Search a string in unibet.com");
 		test2.log(Status.PASS, "Launched chrome browser succesfully");
 		System.out.println("Test Completed..");
 	}

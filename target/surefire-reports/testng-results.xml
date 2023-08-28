@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests.TestClass" duration-ms="35339" started-at="2023-08-28T01:07:05Z" finished-at="2023-08-28T01:07:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="35339" started-at="2023-08-28T01:07:05Z" finished-at="2023-08-28T01:07:41Z">
+      <class name="tests.TestClass">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:tests.TestClass@5a61f5df]" name="Setup" is-config="true" duration-ms="9070" started-at="2023-08-28T01:06:56Z" finished-at="2023-08-28T01:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="SetupExtent()[pri:0, instance:tests.TestClass@5a61f5df]" name="SetupExtent" is-config="true" duration-ms="142" started-at="2023-08-28T01:07:05Z" finished-at="2023-08-28T01:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupExtent -->
+        <test-method status="PASS" signature="test()[pri:0, instance:tests.TestClass@5a61f5df]" name="test" duration-ms="11" started-at="2023-08-28T01:07:05Z" finished-at="2023-08-28T01:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="searchAutomation()[pri:1, instance:tests.TestClass@5a61f5df]" name="searchAutomation" duration-ms="12508" started-at="2023-08-28T01:07:05Z" finished-at="2023-08-28T01:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAutomation -->
+        <test-method status="PASS" signature="searchName()[pri:2, instance:tests.TestClass@5a61f5df]" name="searchName" duration-ms="8819" started-at="2023-08-28T01:07:18Z" finished-at="2023-08-28T01:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchName -->
+        <test-method status="PASS" signature="loginTestCase()[pri:3, instance:tests.TestClass@5a61f5df]" name="loginTestCase" duration-ms="13603" started-at="2023-08-28T01:07:27Z" finished-at="2023-08-28T01:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="TearDownExtent()[pri:0, instance:tests.TestClass@5a61f5df]" name="TearDownExtent" is-config="true" duration-ms="243" started-at="2023-08-28T01:07:40Z" finished-at="2023-08-28T01:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownExtent -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:tests.TestClass@5a61f5df]" name="TearDown" is-config="true" duration-ms="1362" started-at="2023-08-28T01:07:41Z" finished-at="2023-08-28T01:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.TestClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.TestClass -->
+</testng-results>
